@@ -1,0 +1,7 @@
+matrix.py - Extraction of distances between points in fall sequences.
+matrixNF.py - Extraction of distances between points in non-fall sequences.
+pointmatrix.py - Extraction of coordinate of points in fall sequences. 
+pointmatrixNF.py - Extraction of coordinate of points in non-fall sequences. 
+RewriteToMinFrames.py - Shapes the data into equal number of frames in every sequence. 
+test111DataMin.txt - Distances feature vector.
+test222DataMin.txt - Points feature vector.
